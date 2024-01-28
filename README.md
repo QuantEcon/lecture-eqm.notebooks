@@ -1,7 +1,7 @@
-# lecture-python.notebooks
+# lecture-eqm.notebooks
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/QuantEcon/lecture-python.notebooks/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/QuantEcon/lecture-eqm/main)
 
-Notebooks for https://python.quantecon.org
+Notebooks for https://eqm.quantecon.org
 
-**Note:** This README should be edited [here](https://github.com/quantecon/lecture-python.myst/_notebook_repo)
+**Note:** This README should be edited [here](https://github.com/quantecon/lecture-eqm/_notebook_repo)
